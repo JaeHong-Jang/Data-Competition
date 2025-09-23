@@ -1,0 +1,37 @@
+{
+  "selected_features": [
+    "Temp",
+    "VPD",
+    "vpd_optimal",
+    "temp_stress",
+    "energy_dissipation",
+    "Fv-Fm",
+    "ABS-RC",
+    "Car",
+    "photosyn_efficiency",
+    "Tro-RC",
+    "TChl",
+    "SFI_abs",
+    "Chl_a",
+    "TCh-Car",
+    "Chl_b",
+    "Chl_a_b",
+    "Dio-RC",
+    "DF_abs",
+    "PI_abs",
+    "Humid"
+  ],
+  "n_features": 20,
+  "scaler_type": "RobustScaler",
+  "train_months": [
+    5,
+    6
+  ],
+  "val_months": [
+    7
+  ],
+  "test_months": [
+    8,
+    9
+  ]
+}
